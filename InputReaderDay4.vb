@@ -1,5 +1,5 @@
 ﻿Imports System.IO
-Module InputReader
+Module InputReaderDay4
     Public Function readInput(filename As String) As ArrayList
         Dim passports As ArrayList = New ArrayList
 
