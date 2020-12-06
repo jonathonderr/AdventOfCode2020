@@ -2,7 +2,6 @@ Imports System
 
 Module AdventOfCode
     Sub Main(args As String())
-        Dim boardingPasses = InputReaderDay5.readInput("input.txt")
-        Console.WriteLine(Day5.findBoardingPass(boardingPasses))
+        Dim boardingPasses = InputReaderDay6.readInput("input.txt")
     End Sub
 End Module
